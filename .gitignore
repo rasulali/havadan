@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# Mockups & Inspirations
+refs/
+
 # Runtime data
 pids
 *.pid
