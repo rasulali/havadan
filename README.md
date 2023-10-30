@@ -1,2 +1,2 @@
 # havadan
-a modern weather app
+modern weather app
